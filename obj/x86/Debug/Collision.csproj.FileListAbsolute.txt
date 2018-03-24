@@ -1,0 +1,11 @@
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\Collision.exe
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\Collision.pdb
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\OpenTK.dll
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\obj\x86\Debug\Collision.csprojResolveAssemblyReference.cache
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\obj\x86\Debug\Collision.exe
+D:\SAE\Projects\GP914\GameMechanics\Collision\Collision\obj\x86\Debug\Collision.pdb
+E:\Programming\C#\Collision\obj\x86\Debug\Collision.exe
+E:\Programming\C#\Collision\obj\x86\Debug\Collision.pdb
